@@ -267,9 +267,8 @@ The project can be further enhanced by:
 Car-Dekho-Data-Analysis/
 │
 ├── VOIS_DIY.ipynb
-├──
-├──
-├──
+├── DIY Project by Yashveer Singh.pdf
+├──Car Market Trends Analysis with Car Dekho Data.csv
 └── README.md
 ```
 
