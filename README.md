@@ -267,6 +267,9 @@ The project can be further enhanced by:
 Car-Dekho-Data-Analysis/
 │
 ├── VOIS_DIY.ipynb
+├──
+├──
+├──
 └── README.md
 ```
 
@@ -316,6 +319,8 @@ The project includes:
 ## 👨‍💻 Author
 
 **Yashveer Singh**
+
+**MCA -- Computer Network & Cybersecurity**
 
 **VOIS for Tech -- Data Analytics DIY Project**
 
